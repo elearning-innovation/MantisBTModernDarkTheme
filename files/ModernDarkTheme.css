@@ -15,6 +15,11 @@ body {
     background-color: #22252a !important
 }
 
+th.category label {
+    background-color: #2d3035 !important;
+    color: white;
+}
+
 .navbar {
     background-color: #323232 !important
 }
