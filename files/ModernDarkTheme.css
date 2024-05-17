@@ -20,6 +20,11 @@ th.category label {
     color: white;
 }
 
+td.category label {
+    background-color: #2d3035 !important;
+    color: white;
+}
+
 .navbar {
     background-color: #323232 !important
 }
