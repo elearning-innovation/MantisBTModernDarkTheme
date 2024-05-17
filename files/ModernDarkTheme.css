@@ -1,4 +1,4 @@
-yhtml {
+html {
     background-color: #ffffff !important
 }
 
@@ -90,7 +90,7 @@ body {
 .ace-nav > li {
     line-height: 45px;
     height: 45px;
-    border-left: 0px solid #E1E1E1 !important;
+    border-left: 0 solid #E1E1E1 !important;
     padding: 0;
     position: relative;
     float: left;
@@ -98,8 +98,7 @@ body {
 
 .btn.btn-white, .btn-primary, .btn.btn-white.btn-primary {
     background-color: #22252a !important;
-    border-color: transparent !important;
-    border: 0 !important;
+    border: 0 transparent !important;
     color: #fafafa !important;
     /*border-radius: 16px !important;*/
     padding: 3px 12px !important;
@@ -120,12 +119,11 @@ body {
 }
 
 .skin-3 .nav-list > li > a:hover, .skin-3 .nav-list > li.active > a:hover {
-    border-color: #212326 !important !important;
+    border-color: #212326 !important;
 }
 
 .main-content, .page-content, .main-container, .main-container:before, .main-container.container:before, .skin-3 .main-container:before {
     background: #22252a !important;
-    background-color: #22252a !important
 }
 
 .footer-content {
@@ -205,8 +203,7 @@ body {
 
 .widget-box, .widget-main {
     background-color: #26282d !important;
-    border-color: transparent !important;
-    border: 0 !important;
+    border: 0 transparent !important;
 }
 
 .widget-box {
@@ -218,8 +215,7 @@ body {
 }
 
 .table-bordered {
-    border: 0 !important;
-    border-color: transparent !important;
+    border: 0 transparent !important;
     background-color: #fff !important
 }
 
@@ -245,20 +241,18 @@ body {
 
 .widget-body .table th {
     background-color: #2d3035 !important;
-    border-color: #fff !important;
     color: white !important;
     padding: 20px !important;
     font-weight: bold !important;
-    border: 0 !important;
+    border: 0 #fff !important;
 }
 
 .widget-body .table td {
     background-color: #2d3035 !important;
-    border-color: #fff !important;
     color: white !important;
     padding: 20px !important;
     font-weight: 100 !important;
-    border: 0 !important;
+    border: 0 #fff !important;
 }
 
 
@@ -335,9 +329,8 @@ body {
 }
 
 .widget-toolbox {
-    border: 0 !important;
     background-color: #212326 !important;
-    border-color: transparent !important
+    border: 0 transparent !important;
 }
 
 .table-hover > tbody > tr:hover {
@@ -430,7 +423,6 @@ select {
 
 .arrow {
     z-index: -1;
-    background-color: none !important
 }
 
 .arrow::after {
@@ -522,7 +514,6 @@ td {
 
 .widget-color-blue2 > .widget-header {
     border: 0 !important;
-    background-color: #999 !important;
     background-color: #2d3035 !important;
 	color: white !important;
 	border-bottom: 1px solid #22252a !important;
@@ -589,11 +580,10 @@ tr.spacer td{
 
 .nav-tabs > li.active > a {
 	border-top: 2px solid #1d77b9 !important;
-	border-color: #1d77b9 #2D3035 transparent !important;
 }
 
 .nav-tabs {
-    border-bottom: 0px solid #2d3035 !important;
+    border-bottom: 0 solid #2d3035 !important;
     border-bottom-color: rgb(45, 48, 53);
 }
 
