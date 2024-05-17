@@ -20,12 +20,12 @@ body {
 }
 
 .nav-tabs > li.active > a {
-    border-top: 2px solid orange !important
+    border-top: 2px solid #1d77b9 !important
 }
 
 .nav-tabs a {
     background-color: #2d3035 !important;
-	color: white !important;	
+	color: white !important;
 }
 
 .nav-tabs>li>a {
@@ -76,7 +76,7 @@ body {
 }
 
 .dropdown-menu li.active:hover > a, .dropdown-menu li.active > a, .dropdown-menu li:hover > a, .dropdown-menu li > a:active, .dropdown-menu li > a:focus {
-    background-color: orange !important;
+    background-color: #1d77b9 !important;
     color: #f0f0f0 !important
 }
 
@@ -130,24 +130,24 @@ body {
 
 .footer-content {
     background-color: #282828 !important;
-    border-top-color: orange !important;
+    border-top-color: #1d77b9 !important;
     border-top-style: dotted !important;
     border-top-width: 1px !important
 }
 
 .label {
-    background-color: orange !important;
+    background-color: #1d77b9 !important;
     color: white;
     /*border-radius: 18px;*/
     padding: 3px 10px;
 }
 
 .label:before {
-    border-right-color: orange !important
+    border-right-color: #1d77b9 !important
 }
 
 .label.arrowed-in-right:after {
-    border-color: orange !important;
+    border-color: #1d77b9 !important;
     border-right-color: transparent !important
 }
 
@@ -162,7 +162,7 @@ body {
 }
 
 .breadcrumbs .nav-recent {
-    color: orange !important;
+    color: #1d77b9 !important;
     padding: 10px !important;
 }
 
@@ -230,7 +230,7 @@ body {
 }
 
 .widget-body .table a {
-    color: orange !important;
+    color: #1d77b9 !important;
     font-weight: bold;
 }
 
@@ -397,15 +397,15 @@ select {
 
 .nav-list li.active > a:before, .skin-3 .nav-list > li li.active > a:before, .skin-3 .nav-list > li > a li.active > a:before, .skin-3 .nav-list > li.active > a li.active > a:before {
     color: rgba(0, 0, 0, 0) !important;
-    border-right-color: orange !important
+    border-right-color: #1d77b9 !important
 }
 
 .nav-list > li:before, .nav-list > li:after, .skin-3 .nav-list > li > li:before, .skin-3 .nav-list > li > li:after, .skin-3 .nav-list > li > a > li:before, .skin-3 .nav-list > li > a > li:after, .skin-3 .nav-list > li.active > a > li:before, .skin-3 .nav-list > li.active > a > li:after {
-    background-color: orange !important
+    background-color: #1d77b9 !important
 }
 
 .skin-3 .nav-list > li.open:before, .skin-3 .nav-list > li:hover:before {
-    background-color: orange !important
+    background-color: #1d77b9 !important
 }
 
 .skin-3 .sidebar.menu-min .nav-list > li > a > .menu-text {
@@ -417,7 +417,7 @@ select {
 }
 
 .skin-3 .nav-list > li.active:before, .skin-3 .nav-list > li.active + li:before {
-    background-color: orange !important
+    background-color: #1d77b9 !important
 }
 
 .skin-3 .nav-list > li:hover + li {
@@ -434,7 +434,7 @@ select {
 }
 
 .arrow::after {
-    border-right-color: orange !important
+    border-right-color: #1d77b9 !important
 }
 
 .menu-text {
@@ -445,15 +445,15 @@ select {
 .sidebar-toggle, .skin-3 .sidebar-toggle {
     background-color: inherit !important;
     border-color: #3c3c3c !important;
-    color: orange !important;
+    color: #1d77b9 !important;
     border-bottom: 0 !important;
     padding: 20px 0 !important;
 }
 
 .sidebar-toggle > .ace-icon, .skin-3 .sidebar-toggle > .ace-icon {
     background-color: #212326 !important;
-    border-color: orange !important;
-    color: orange !important
+    border-color: #1d77b9 !important;
+    color: #1d77b9 !important
 }
 
 .sidebar-toggle:before, .skin-3 .sidebar-toggle:before {
@@ -567,7 +567,7 @@ a.btn + a.btn {
 }
 
 a{
-    color: orange !important;
+    color: #1d77b9 !important;
 }
 
 .ace-nav > li.grey > a {
@@ -588,8 +588,8 @@ tr.spacer td{
 }
 
 .nav-tabs > li.active > a {
-	border-top: 2px solid orange !important;
-	border-color: orange #2D3035 transparent !important;
+	border-top: 2px solid #1d77b9 !important;
+	border-color: #1d77b9 #2D3035 transparent !important;
 }
 
 .nav-tabs {
